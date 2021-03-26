@@ -1,2 +1,3 @@
 # HandsOnPytorch
-First Step in Pytorch
+
+A simple cnn network using pytorch, hope you enjoy!
